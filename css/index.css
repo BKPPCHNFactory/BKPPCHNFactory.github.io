@@ -238,3 +238,7 @@
 .tab_active {
   color: #b39f79 !important;
 }
+
+li {
+  list-style: none;
+}
