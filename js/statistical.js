@@ -7,7 +7,7 @@ $(document).ready(function () {
     voteArr = resJ.res;
   });
 
-  console.log(voteArr);
+  // console.log(voteArr);
 
   baseDom = $("#statistical_json");
   for (let i = 0; i < voteArr.length; i++) {
