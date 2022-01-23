@@ -3,7 +3,7 @@ $(document).ready(function () {
   let voteArr = [];
 
   $.ajaxSettings.async = false;
-  $.getJSON("../json/vote.json", (resJ) => {
+  $.getJSON(`../json/vote.json?random=${Math.random}`, (resJ) => {
     voteArr = resJ.res;
   });
 
