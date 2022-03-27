@@ -49,22 +49,22 @@
 
   <url>
     <loc>https://bkpp.fans/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://bkpp.fans/tags/BKPP/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <loc>https://bkpp.fans/tags/Team/</loc>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bkpp.fans/tags/Team/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <loc>https://bkpp.fans/tags/BKPP/</loc>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
